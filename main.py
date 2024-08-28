@@ -3,3 +3,5 @@ def new_id(name, number):
 
 
 assert new_id("Ellie", 22) == "Ellie23", "ERROR!"
+
+print()
